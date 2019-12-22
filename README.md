@@ -36,19 +36,19 @@ Bored on weekends here in Delhi. Hence, decided to make a bot that helps me ligh
 
 <div align="center">
 <h4 align="center">Meme</h4>
-<img src="./Snapshots/ss1.png" height=700px/>
+<img src="./Snapshots/ss1.jpeg" height=700px/>
 <br>
 <h4 align="center">Motivation</h4>
-<img src="./Snapshots/ss2.png" width=700px/>
+<img src="./Snapshots/ss2.jpeg" height=700px/>
 <br>
 <h4 align="center">Shower Thought</h4>
-<img src="./Snapshots/ss3.png" height=700px/>
+<img src="./Snapshots/ss3.jpeg" height=700px/>
 <br>
 <h4 align="center">TechNews</h4>
-<img src="./Snapshots/ss4.png" height=700px/>
+<img src="./Snapshots/ss4.jpeg" height=700px/>
 <br>
 <h4 align="center">Jokes</h4>
-<img src="./Snapshots/ss5.png" height=700px/>
+<img src="./Snapshots/ss5.jpeg" height=700px/>
 <br>
 </div>
 
