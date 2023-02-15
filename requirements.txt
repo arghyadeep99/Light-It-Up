@@ -5,7 +5,7 @@ itsdangerous==0.24
 Jinja2>=2.10.1
 MarkupSafe==0.23
 requests==2.20.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 flask-sqlalchemy
 psycopg2
 praw
